@@ -1,0 +1,3 @@
+I am inside a folder
+
+If you see this on github, it means the upload is successful.
